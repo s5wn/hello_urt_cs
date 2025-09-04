@@ -1,0 +1,15 @@
+/Users/py4d/Desktop/dot-net/hello_urt/bin/Debug/net9.0/hello_urt
+/Users/py4d/Desktop/dot-net/hello_urt/bin/Debug/net9.0/hello_urt.deps.json
+/Users/py4d/Desktop/dot-net/hello_urt/bin/Debug/net9.0/hello_urt.runtimeconfig.json
+/Users/py4d/Desktop/dot-net/hello_urt/bin/Debug/net9.0/hello_urt.dll
+/Users/py4d/Desktop/dot-net/hello_urt/bin/Debug/net9.0/hello_urt.pdb
+/Users/py4d/Desktop/dot-net/hello_urt/obj/Debug/net9.0/hello_urt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/py4d/Desktop/dot-net/hello_urt/obj/Debug/net9.0/hello_urt.AssemblyInfoInputs.cache
+/Users/py4d/Desktop/dot-net/hello_urt/obj/Debug/net9.0/hello_urt.AssemblyInfo.cs
+/Users/py4d/Desktop/dot-net/hello_urt/obj/Debug/net9.0/hello_urt.csproj.CoreCompileInputs.cache
+/Users/py4d/Desktop/dot-net/hello_urt/obj/Debug/net9.0/hello_urt.dll
+/Users/py4d/Desktop/dot-net/hello_urt/obj/Debug/net9.0/refint/hello_urt.dll
+/Users/py4d/Desktop/dot-net/hello_urt/obj/Debug/net9.0/hello_urt.pdb
+/Users/py4d/Desktop/dot-net/hello_urt/obj/Debug/net9.0/hello_urt.genruntimeconfig.cache
+/Users/py4d/Desktop/dot-net/hello_urt/obj/Debug/net9.0/ref/hello_urt.dll
+/Users/py4d/Desktop/dot-net/hello_urt/obj/Debug/net9.0/hello_urt.sourcelink.json
